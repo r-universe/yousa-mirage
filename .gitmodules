@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/yousa-mirage/yousa-mirage.r-universe.dev
 	branch = HEAD
+[submodule "ggtypst"]
+	path = ggtypst
+	url = https://github.com/Yousa-Mirage/ggtypst
