@@ -5,3 +5,4 @@
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst
+	branch = *release
