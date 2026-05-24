@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/yousa-mirage/yousa-mirage.r-universe.dev
 	branch = HEAD
+[submodule "ahocorasick"]
+	path = ahocorasick
+	url = https://github.com/Yousa-Mirage/r-ahocorasick
+	branch = *release
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst

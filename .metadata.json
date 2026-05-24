@@ -2,5 +2,9 @@
   {
     "package": "ggtypst",
     "releasetag": true
+  },
+  {
+    "package": "ahocorasick",
+    "releasetag": true
   }
 ]
