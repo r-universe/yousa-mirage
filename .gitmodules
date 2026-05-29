@@ -5,7 +5,7 @@
 [submodule "ahocorasick"]
 	path = ahocorasick
 	url = https://github.com/Yousa-Mirage/r-ahocorasick
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst
