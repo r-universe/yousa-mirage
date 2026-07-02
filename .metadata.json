@@ -6,5 +6,9 @@
   {
     "package": "ahocorasick",
     "releasetag": true
+  },
+  {
+    "package": "jiebaRS",
+    "releasetag": true
   }
 ]
