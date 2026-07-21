@@ -13,4 +13,4 @@
 [submodule "jiebaRS"]
 	path = jiebaRS
 	url = https://github.com/Yousa-Mirage/jiebaRS
-	branch = v0.1.0
+	branch = v0.2.0
