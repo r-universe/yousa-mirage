@@ -10,5 +10,9 @@
   {
     "package": "jiebaRS",
     "releasetag": true
+  },
+  {
+    "package": "cidian",
+    "releasetag": true
   }
 ]

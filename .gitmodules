@@ -6,6 +6,10 @@
 	path = ahocorasick
 	url = https://github.com/Yousa-Mirage/r-ahocorasick
 	branch = v0.2.0
+[submodule "cidian"]
+	path = cidian
+	url = https://github.com/Yousa-Mirage/r-cidian
+	branch = *release
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst
