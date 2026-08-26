@@ -9,7 +9,7 @@
 [submodule "cidian"]
 	path = cidian
 	url = https://github.com/Yousa-Mirage/r-cidian
-	branch = *release
+	branch = v0.1.0
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst
